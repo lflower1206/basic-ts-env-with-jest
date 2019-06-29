@@ -1,0 +1,29 @@
+{
+  "name": "basic-ts-env-with-jest",
+  "version": "1.0.0",
+  "description": "Basic typescript environment with Jest for development",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lflower1206/basic-ts-env-with-jest.git"
+  },
+  "keywords": [
+    "typescript",
+    "jest"
+  ],
+  "author": "lflower1206",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lflower1206/basic-ts-env-with-jest/issues"
+  },
+  "homepage": "https://github.com/lflower1206/basic-ts-env-with-jest#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.2"
+  }
+}
